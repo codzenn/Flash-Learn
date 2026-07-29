@@ -1,6 +1,6 @@
 # Flash Learn
 
-Flash Learn is a polished flashcard study app built with React and Vite. It helps learners review JavaScript concepts through an elegant, interactive experience with flipping cards, progress tracking, and a modern interface.
+Flash Learn is a polished flashcard study app built with React and Vite. It helps learners review JavaScript concepts through an elegant, interactive experience with flipping cards, progress tracking, and a modern interface. You can try it out here: https://flash-learn-liart.vercel.app
 
 ## ✨ Features
 
